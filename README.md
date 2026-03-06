@@ -14,4 +14,4 @@ Lenguajes conocidos:
 - JAVA & Kotlin
 - Assembly
 
-Gracias por pasarte y tomarte el tiempo de ver mi perfil de GitHub.
+Gracias por pasarte y tomarte el tiempo de ver mi perfil de [GitHub](https://github.com/MiguelAgustin55).
