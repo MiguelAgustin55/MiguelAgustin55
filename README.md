@@ -1,16 +1,17 @@
-## Hi there 👋
+# Agustin
 
-<!--
-**MiguelAgustin55/MiguelAgustin55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador apasionado por la arquitectura de sistemas y el ecosistema del software libre. Mi enfoque se centra en la creación de soluciones robustas, desde aplicaciones escalables hasta el desarrollo de kernels y sistemas operativos. Defensor activo de la filosofía Open Source, con experiencia en la optimización de recursos y el diseño de mecánicas de juego disruptivas. Siempre buscando el equilibrio entre eficiencia técnica y experiencia de usuario.
 
-Here are some ideas to get you started:
+Software Destacado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [MtrxOS](https://github.com/MiguelAgustin55/MtrxOS):  Un sistema operativo simple desarrollado en Rust, diseñado para aprovechar la potencia de la PC del usuario. La única limitación actual es que utiliza un solo núcleo (core) de la CPU y emplea la GPU únicamente para el renderizado de pantalla. 
+
+Lenguajes conocidos:
+
+- Rust
+- C/C++
+- Python
+- JAVA & Kotlin
+- Assembly
+
+Gracias por pasarte y tomarte el tiempo de ver mi perfil de GitHub.
