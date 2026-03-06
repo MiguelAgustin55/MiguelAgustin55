@@ -1,4 +1,4 @@
-# Agustin
+# Miguel Agustin
 
 Desarrollador apasionado por la arquitectura de sistemas y el ecosistema del software libre. Mi enfoque se centra en la creación de soluciones robustas, desde aplicaciones escalables hasta el desarrollo de kernels y sistemas operativos. Defensor activo de la filosofía Open Source, con experiencia en la optimización de recursos y el diseño de mecánicas de juego disruptivas. Siempre buscando el equilibrio entre eficiencia técnica y experiencia de usuario.
 
